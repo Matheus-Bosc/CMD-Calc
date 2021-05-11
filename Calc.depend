@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620773981 source:c:\users\matheus\desktop\udemy c tutorial\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
